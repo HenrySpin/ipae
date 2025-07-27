@@ -2,7 +2,7 @@
 <ol>
   <li>
     <strong>Run AlphaFold Predictions</strong><br>
-    Submit your protein/peptide sequences at <a href="https://alphafoldserver.com" target="_blank">AlphaFold Server</a>.
+    Submit your protein/peptide sequences at the <a href="https://alphafoldserver.com" target="_blank">AlphaFold Server</a>.
   </li>
   <li>
     <strong>Download Results</strong><br>
