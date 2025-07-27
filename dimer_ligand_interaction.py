@@ -1,3 +1,4 @@
+# This is a special case of n = 3 from the n_peptides.py. In general, use that rather.
 import numpy as np
 
 # Assume these are your lengths (from token_chain_ids or sequence)
