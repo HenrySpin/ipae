@@ -67,5 +67,8 @@ The underlying principle is that we want to exclude the self-interaction contrib
     </tr>
   </table>
 </center>
-One can similarly visualize for n = 2 or larger cases. The values corresponding to the <code>chain_pair_pae_min</code> key in <code>summay_confidence_n.json</code> would indicate the lowest PAE the model predicts for each pairwise grouping of the different sequences being modeled, to likely achieve in the best case. However, the above iPAE calculations boil down to a single, aggregate, and cumulative measure. The various metrics should be used judiciously as desired, as they serve different purposes.
+One can similarly visualize for n = 2 or larger cases. The values corresponding to the <code>chain_pair_pae_min</code> key in <code>summay_confidence_n.json</code> would indicate the lowest PAE the model predicts for each pairwise grouping of the different sequences being modeled, to likely achieve in the best case. However, the above iPAE calculations boil down to a single, aggregate, and cumulative measure.
+</p>
+<p>
+iPAE or PAE values could be influenced or biased, such as by small sequence length, but values less than 15 are usually considered. Lastly, the measures are mere approximations for binding affinities, not exact substitutes for them. The various metrics should be used judiciously as they serve different purposes.
 </p>
