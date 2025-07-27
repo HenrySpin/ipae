@@ -12,7 +12,7 @@
     <strong>Extract PAE Data</strong><br>
     <ul>
       <li>Open any <code>full_data_n.json</code> file from the results.</li>
-      <li>Locate the <code>"pae"</code> key and copy the entire array (including all nested brackets, except the starting and ending bracket).</li>
+      <li>Locate the <code>"pae"</code> key and copy the entire array (including all nested brackets).</li>
     </ul>
   </li>
   <li>
